@@ -16,7 +16,7 @@
 
 ## 👩‍💻 About Me
 
-I'm an **AI Engineer with 2.6 years of experience** building and deploying real-world AI/ML systems across **Generative AI, Computer Vision, and NLP**.
+I'm an **AI Engineer with 2+ years of experience** building and deploying real-world AI/ML systems across **Generative AI, Computer Vision, and NLP**.
 
 - 🔭 Currently building **Vision-RAG** — a multimodal RAG system for image + document Q&A
 - 🧠 Specialised in **RAG pipelines, LLM fine-tuning, and custom object detection**
