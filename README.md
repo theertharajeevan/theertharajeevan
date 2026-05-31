@@ -28,33 +28,40 @@ I'm an **AI Engineer with 2+ years of experience** building and deploying real-w
 
 ## 🛠️ Tech Stack
 
-**Generative AI & LLMs**
+### 🤖 Generative AI & LLMs
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-FF9800?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-blue?style=flat-square)
 
-**Computer Vision & Deep Learning**
+### 👁️ Computer Vision & Deep Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square)
+![Faster_RCNN](https://img.shields.io/badge/Faster_RCNN-FF6F00?style=flat-square)
 
-**Cloud & Deployment**
+### ☁️ Cloud & Deployment
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-**Languages & Tools**
+### 💻 Programming & Data
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
@@ -82,7 +89,7 @@ I'm an **AI Engineer with 2+ years of experience** building and deploying real-w
 ### 🏗️ AI-Powered Claim Validation Platform
 > Automated image validation system for field inspection using CV + OCR
 
-- Trained **13 custom object detection models** using YOLO & Faster R-CNN
+- Trained and deployed 13 custom object detection models achieving up to 85%-90% mAP.
 - Geospatial validation with **GeoPandas + Shapely** against GIS datasets
 - JWT auth, RBAC, TOTP-based 2FA with **Amazon S3** storage
 - **Stack:** Flask · YOLO · Faster R-CNN · OpenAI Vision · AWS S3
@@ -94,7 +101,7 @@ I'm an **AI Engineer with 2+ years of experience** building and deploying real-w
 
 - Integrated **AWS Rekognition + YOLO** with ArcGIS feature layers
 - Batch processing with **ThreadPoolExecutor** for large-scale image pipelines
-- Reduced manual QC effort significantly via automated asset verification
+- Reduced manual QC effort by 70% through automated asset verification.
 - **Stack:** ArcGIS · AWS Rekognition · YOLO · Python
 
 ---
@@ -113,8 +120,10 @@ I'm an **AI Engineer with 2+ years of experience** building and deploying real-w
 
 ## 🏆 Certifications
 
-- 📜 Big Data Analytics & Data Science — **NACTET**
-- 📜 Big Data Analytics & Data Science — **Luminar Technolab**
+- 📜 Model Context Protocol: Advanced Topics — Anthropic
+- 📜 Claude with Google Cloud's Vertex AI — Anthropic
+- 📜 Big Data Analytics & Data Science — NACTET
+- 📜 Big Data Analytics & Data Science — Luminar Technolab
 
 ---
 
